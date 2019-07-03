@@ -1,0 +1,28 @@
+### OS X ###
+.DS_Store
+
+### IDEA ###
+.idea/
+*.iml
+
+### VS Code ###
+.vscode/
+.classpath
+.factorypath
+.project
+.settings/
+
+### Maven ###
+target/
+
+### Logs ###
+logs/
+
+### Fine ###
+env/WEB-INF/assets/
+env/WEB-INF/assist/
+env/WEB-INF/embed/finedb/
+env/WEB-INF/clouds/
+env/log/
+
+lib/*.jar
