@@ -2,7 +2,7 @@
 
 > 帆软报表10.0，基于spring boot。那些所谓集成spring boot的教程，最后打包成war，要脸吗？
 
-[9.0集成](github.com/xuanbo/fine-report)
+[9.0集成](http://github.com/xuanbo/fine-report)
 
 ## 安装依赖
 
